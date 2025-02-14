@@ -143,5 +143,3 @@ try:
     src_dpid, src_port_no, mactag = LLDPPacket.lldp_parse(msg.data)
    
 
-
-N.B The highlighted code is either modified or added 
